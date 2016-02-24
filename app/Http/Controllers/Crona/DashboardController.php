@@ -1,6 +1,6 @@
 <?php namespace App\Http\Controllers\Crona;
 
-use Alfredoem\Ragnarok\AuthRagnarok;
+use Alfredoem\Ragnarok\Soul\AuthRagnarok;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Crona\SecApps\SecApp;
